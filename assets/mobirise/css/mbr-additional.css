@@ -110,24 +110,24 @@ body {
 .bg-danger {
   background-color: #fa3e7d !important;
 }
-.btn-primary,
-.btn-primary:active {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent:active {
   background-color: #fa3e7d !important;
   border-color: #fa3e7d !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary.focus,
-.btn-primary.active {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent:hover,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent:focus,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent.focus,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent.active {
   color: #ffffff !important;
   background-color: #dc064d !important;
   border-color: #dc064d !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
-.btn-primary.disabled,
-.btn-primary:disabled {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent.disabled,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent:disabled {
   color: #ffffff !important;
   background-color: #dc064d !important;
   border-color: #dc064d !important;
@@ -286,23 +286,23 @@ body {
   background-color: #000000 !important;
   border-color: #000000 !important;
 }
-.btn-primary-outline,
-.btn-primary-outline:active {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline:active {
   background-color: transparent !important;
   border-color: transparent;
   color: #fa3e7d;
 }
-.btn-primary-outline:hover,
-.btn-primary-outline:focus,
-.btn-primary-outline.focus,
-.btn-primary-outline.active {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline:hover,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline:focus,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline.focus,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline.active {
   color: #dc064d !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
 }
-.btn-primary-outline.disabled,
-.btn-primary-outline:disabled {
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline.disabled,
+.mdui-btn-raised mdui-ripple mdui-color-theme-accent-outline:disabled {
   color: #ffffff !important;
   background-color: #fa3e7d !important;
   border-color: #fa3e7d !important;
