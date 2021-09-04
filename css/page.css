@@ -17,7 +17,7 @@
 
 .page .nav-left .LogoName {
 	text-align: center;
-	line-height: 66px;
+	line-height: 67px;
 	font-size: 20px;
 	font-weight: 700;
 	color: #fff;
@@ -122,7 +122,7 @@
 	z-index: 200;
 	flex: 1;
 	position: absolute;
-	top: 75px;
+	top: 73px;
 	left: 240px;
 	right: 0;
 	bottom: 0;
