@@ -116,6 +116,9 @@
     url: https://github.com/iwxf/free-v2ray/blob/master/README.md
 - type: webfuzz
   options:
+    url: https://geek996.com/article/ssr
+- type: webfuzz
+  options:
     url: https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md
 - type: webfuzz
   options:
